@@ -4,5 +4,7 @@ class Book
 
   end
 
+  def title
+
 
 end #end class Book
